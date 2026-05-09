@@ -2,6 +2,7 @@
 layout: project
 title: Turbine Blade Thermal Resistance Network
 description: MAE 3240 Homework Assignment Reflection.
+technologies: Heat Transfer
 image: /assets/images/MAE3240-turbine-blade.png
 ---
 
